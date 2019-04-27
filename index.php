@@ -13,6 +13,7 @@
     }
     textarea {
         width: 100%;
+        min-height: 200px;
         font-size: 1.5em;
         color: grey;
     }
