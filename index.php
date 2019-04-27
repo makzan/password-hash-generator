@@ -19,7 +19,7 @@
     }
 </style>
 <form action='' method='post'>
-    <input autofocus name='password' value=<?=$_POST['password']??""?>>
+    <input autofocus name='password' value='<?=$_POST['password']??""?>'>
     <input type='submit' value='Generate'>
 </form>
 <textarea><?php
